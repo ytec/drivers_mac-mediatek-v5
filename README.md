@@ -7,11 +7,10 @@ Driver they are the mediatek V5
 Date update the drivers 2017-08-18 Create CD
 
 wifi test in :
-TP-LINK TL-WN727N V2 - MT7601 UK
+- TP-LINK TL-WN727N V2 - MT7601 UK
 
-Generic wifi N chipset mediatek mtk7601
+- Generic wifi N chipset mediatek mtk7601
 
-/
-/
-/
-/
+- /
+- /
+- /
